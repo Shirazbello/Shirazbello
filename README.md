@@ -20,7 +20,7 @@
 ### :TECHNOLOGY ETHUSIAST: About Me :
 I am an aspiring AI\Deep Learning Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  and a Full Stack Developer. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirazbello2/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shiraz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirazbello2/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
