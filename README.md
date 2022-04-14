@@ -33,5 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MssQl" **alt="MssQl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
+</div>&nbsp;
   
 </div>
